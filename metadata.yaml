@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8570
     wikipedia: http://en.wikipedia.org/wiki/Bernarr_Macfadden
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19208#Vitality-Supreme
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
 identifiers:
